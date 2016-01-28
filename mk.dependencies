@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_motorola_maserati",
+    "target_path": "vendor/motorola/maserati"
+  },
+  {
     "repository": "android_device_motorola_omap4-common",
     "target_path": "device/motorola/omap4-common"
   },
